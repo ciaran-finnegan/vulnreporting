@@ -2,4 +2,4 @@
 A vulnerability reporting tool
 
 For the detailed application design see
-[docs/specification.md](../blob/main/docs/specification.md).
+[docs/vuln_metrics_platform_spec_full.md](docs/vuln_metrics_platform_spec_full.md).
